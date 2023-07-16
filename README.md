@@ -1,4 +1,4 @@
-# OPA-R: Rough Ordinal priority approach (OPA)
+# OPA-R: Rough Ordinal Priority Approach
 Python codes for paper "Enhancing Quality Function Deployment through the Integration of Rough Set and Ordinal Priority Approach: A Case Study in Electric Vehicle Manufacturing" 
 
 Author: [Junliang Du](https://jlduu.github.io/)
